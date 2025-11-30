@@ -18,7 +18,7 @@ includes a built-in game loader for `.jar` files.
 -   Scanline LCD effect
 -   Power on/off system
 -   Boot animation with "Nintendo"-style scroll
--   Cartridge insertion menu
+-   Cartridge insertion menu  
 
 ### CheerpJ Java Runtime Integration
 
